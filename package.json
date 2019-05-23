@@ -1,0 +1,19 @@
+{
+  "name": "ping-machine",
+  "version": "1.0.0",
+  "description": "A service which pings another service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ping"
+  ],
+  "author": "Sami Hamed",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.0",
+    "http": "0.0.0"
+  }
+}
