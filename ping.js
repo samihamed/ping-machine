@@ -11,6 +11,7 @@ module.exports = {
         function ping() {
             console.log('ping')
             http.get('http://wayl-crawler.herokuapp.com')
+            http.get('http://capoeira-song-bot.herokuapp.com')
         }
     }
 }
