@@ -1,4 +1,3 @@
-// server.js
 const pingTools = require('./ping')
 
 const express = require('express')
